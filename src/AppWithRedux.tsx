@@ -29,7 +29,7 @@ export type TasksStateType = {
 
 
 function AppWithRedux() {
-    console.log('ss')
+
 
     let todolistId1 = v1();
     let todolistId2 = v1();
